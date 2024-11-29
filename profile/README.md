@@ -1,3 +1,8 @@
+<!-- Code -->
+<div align="center">
+  <img align="center" src="https://github.com/PET-CODE-UEL/.github/blob/main/profile/Ativo%209.png" width="150px"/>
+</div>
+
 <!-- Title -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
